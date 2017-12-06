@@ -5,6 +5,7 @@
   "proxy": "http://localhost:3003/",
   "dependencies": {
     "axios": "^0.17.1",
+    "jwt-decode": "^2.2.0",
     "react": "^16.2.0",
     "react-bootstrap": "^0.31.5",
     "react-dom": "^16.2.0",

@@ -22,7 +22,7 @@ export default class Signup extends React.Component{
 		form[key] = e.target.value
 		
 	}
-
+                
 	onSubmit = (evt) => {
       evt.preventDefault();
     	let self = this;

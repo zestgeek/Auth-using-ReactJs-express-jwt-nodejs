@@ -9,7 +9,7 @@ var validateEmail = function(email) {
 var LoginSchema   = new Schema({
     username: {
     	type : String,
-	 	required: 'Please provide the username'
+	 	 required: 'Please provide the username'
     },
     password:  {
    	 	type: String,
